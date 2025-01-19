@@ -87,32 +87,6 @@
         "lateEntry": false
     },
     {
-        "confirmationId": "B6364000",
-        "createdAt": "2024-12-12T19:54:37.670Z",
-        "formId": "fe70faee-ab00-4926-a3e9-58d6d3b167ab",
-        "formSubmissionStatusCode": "COMPLETED",
-        "submissionId": "b6364000-0e33-4870-bfab-8b4b11fb6ac9",
-        "deleted": false,
-        "createdBy": "VLiu4@bceid-business",
-        "formVersionId": "2ffce883-b074-4071-b17a-ac784e76cf91",
-        "quarter": "q2",
-        "fiscalYear": "2024/25",
-        "bedGrid0": [
-            {
-                "bedType": "inScope",
-                "subType": {
-                    "label": "LTC Regular",
-                    "value": "ltcRegular"
-                },
-                "endDate0": "2025-03-31T00:00:00-07:00",
-                "startDate0": "2024-04-01T00:00:00-07:00",
-                "numberOfBeds": 60,
-                "inventoryNotes": ""
-            }
-        ],
-        "lateEntry": false
-    },
-    {
         "confirmationId": "4640606A",
         "createdAt": "2024-12-11T18:47:33.751Z",
         "formId": "fe70faee-ab00-4926-a3e9-58d6d3b167ab",
