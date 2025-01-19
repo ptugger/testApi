@@ -18126,7 +18126,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2025-03-31T00:00:00-07:00",
                 "startDate0": "2024-04-01T00:00:00-07:00",
                 "numberOfBeds": 21,
@@ -18446,7 +18449,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2025-03-31T00:00:00-07:00",
                 "startDate0": "2024-04-01T00:00:00-07:00",
                 "numberOfBeds": 21,
@@ -34576,8 +34582,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -34687,8 +34696,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -34798,8 +34810,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -34893,8 +34908,11 @@
         "fiscalYear": "2024/25",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -34961,8 +34979,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35029,8 +35050,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35108,8 +35132,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35187,8 +35214,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35266,8 +35296,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35345,8 +35378,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35424,8 +35460,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35519,8 +35558,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35598,8 +35640,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35693,8 +35738,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35772,8 +35820,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35867,8 +35918,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -35946,8 +36000,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36025,8 +36082,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36104,8 +36164,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36183,8 +36246,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36262,8 +36328,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36341,8 +36410,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36420,8 +36492,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36499,8 +36574,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36578,8 +36656,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36646,8 +36727,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36757,8 +36841,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36868,8 +36955,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -36947,8 +37037,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37026,8 +37119,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37105,8 +37201,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37200,8 +37299,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37295,8 +37397,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37390,8 +37495,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37485,8 +37593,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37580,8 +37691,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37675,8 +37789,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37743,8 +37860,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37838,8 +37958,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -37933,8 +38056,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38002,8 +38128,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38070,8 +38199,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38146,8 +38278,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38221,8 +38356,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38300,8 +38438,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38379,8 +38520,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38447,8 +38591,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38574,8 +38721,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38682,8 +38832,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38777,8 +38930,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38888,8 +39044,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -38983,8 +39142,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39062,8 +39224,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39157,8 +39322,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39252,8 +39420,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39363,8 +39534,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39442,8 +39616,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39553,8 +39730,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39648,8 +39828,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39759,8 +39942,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39870,8 +40056,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -39938,8 +40127,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40017,8 +40209,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40128,8 +40323,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40239,8 +40437,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40350,8 +40551,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40425,8 +40629,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40520,8 +40727,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40631,8 +40841,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40739,8 +40952,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40850,8 +41066,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -40929,8 +41148,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41024,8 +41246,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41135,8 +41360,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41246,8 +41474,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 9882,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41268,8 +41499,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 20862,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41290,8 +41524,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 30744,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41395,8 +41632,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41463,8 +41703,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41558,8 +41801,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41637,8 +41883,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41732,8 +41981,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41859,8 +42111,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -41927,8 +42182,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42006,8 +42264,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 36600,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42086,8 +42347,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42165,8 +42429,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42244,8 +42511,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42323,8 +42593,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42402,8 +42675,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42470,8 +42746,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42545,8 +42824,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42640,8 +42922,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42751,8 +43036,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42819,8 +43107,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42914,8 +43205,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -42993,8 +43287,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43081,8 +43378,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43156,8 +43456,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 32574,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43178,8 +43481,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 37698,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43274,8 +43580,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43342,8 +43651,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43453,8 +43765,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43529,8 +43844,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43597,8 +43915,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43665,8 +43986,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43733,8 +44057,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43801,8 +44128,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43880,8 +44210,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -43975,8 +44308,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44043,8 +44379,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44111,8 +44450,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44179,8 +44521,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44274,8 +44619,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44342,8 +44690,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44410,8 +44761,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44655,8 +45009,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -44730,8 +45087,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -45882,8 +46242,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -46487,7 +46850,10 @@
         "bedGrid0": [
             {
                 "bedType": "inScope",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-06-30T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -46509,7 +46875,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-06-30T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -46531,7 +46900,10 @@
             },
             {
                 "bedType": "inScope",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-09-30T00:00:00-07:00",
                 "totalrow": 8004,
                 "startDate0": "2023-07-01T00:00:00-07:00",
@@ -46553,7 +46925,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-09-30T00:00:00-07:00",
                 "totalrow": 8096,
                 "startDate0": "2023-07-01T00:00:00-07:00",
@@ -47194,8 +47569,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -47262,8 +47640,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -47560,8 +47941,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -48131,8 +48515,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -48199,8 +48586,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -48699,8 +49089,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "",
                 "totalrow": 0,
                 "startDate0": "",
@@ -48721,8 +49114,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "",
                 "totalrow": 0,
                 "startDate0": "",
@@ -48743,8 +49139,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "",
                 "totalrow": 0,
                 "startDate0": "",
@@ -48765,8 +49164,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "",
                 "totalrow": 0,
                 "startDate0": "",
@@ -48787,8 +49189,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "",
                 "totalrow": 0,
                 "startDate0": "",
@@ -48809,8 +49214,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "",
                 "totalrow": 0,
                 "startDate0": "",
@@ -49294,7 +49702,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 71370,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -49857,8 +50268,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -50692,8 +51106,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -52183,8 +52600,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -52929,8 +53349,11 @@
                 "outScopePlannedQ4": 0
             },
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 54168,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -53700,7 +54123,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 39528,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -53859,7 +54285,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-07-20T00:00:00-07:00",
                 "totalrow": 23886,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -53881,7 +54310,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-07-21T00:00:00-07:00",
                 "totalrow": 23896,
                 "startDate0": "2023-07-21T00:00:00-07:00",
@@ -53903,7 +54335,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-08-09T00:00:00-07:00",
                 "totalrow": 24067,
                 "startDate0": "2023-07-22T00:00:00-07:00",
@@ -53925,7 +54360,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 25947,
                 "startDate0": "2023-08-10T00:00:00-07:00",
@@ -54154,8 +54592,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -55107,8 +55548,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -55183,7 +55627,10 @@
         "bedGrid0": [
             {
                 "bedType": "inScope",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 43188,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -55525,8 +55972,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -55759,8 +56209,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -55827,8 +56280,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -55989,8 +56445,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -56553,8 +57012,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -56621,8 +57083,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -57061,8 +57526,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -57136,8 +57604,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -57287,8 +57758,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -57546,7 +58020,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 48678,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -58051,8 +58528,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -58120,7 +58600,10 @@
         "bedGrid0": [
             {
                 "bedType": "inScope",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 32574,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -58527,8 +59010,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -58927,8 +59413,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -60770,8 +61259,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -60962,8 +61454,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -61858,8 +62353,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -62381,8 +62879,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -62449,8 +62950,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -62777,8 +63281,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -64119,8 +64626,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -64311,8 +64821,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -64570,7 +65083,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 32940,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -65251,7 +65767,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 39528,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -65592,7 +66111,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 25986,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -66627,8 +67149,11 @@
         "fiscalYear": "2023/24",
         "bedGrid0": [
             {
-                "bedType": "",
-                "subType": {},
+                "bedType": "inScope",
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate0": "2023-04-01T00:00:00-07:00",
@@ -67703,11 +68228,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68293,11 +68821,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68350,11 +68881,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68407,11 +68941,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68464,11 +69001,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68866,11 +69406,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68923,11 +69466,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -68980,11 +69526,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69221,11 +69770,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69278,11 +69830,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69335,11 +69890,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69392,11 +69950,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69583,11 +70144,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69640,11 +70204,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69697,11 +70264,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -69990,11 +70560,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70047,11 +70620,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70104,11 +70680,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70161,11 +70740,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70218,11 +70800,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70275,11 +70860,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70332,11 +70920,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70389,11 +70980,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70446,11 +71040,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70503,11 +71100,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70560,11 +71160,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70855,11 +71458,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -70912,11 +71518,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -71314,11 +71923,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -71371,11 +71983,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -71556,11 +72171,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -71613,11 +72231,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -71670,11 +72291,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -72072,11 +72696,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -72240,11 +72867,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -72603,11 +73233,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -74992,11 +75625,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -75049,11 +75685,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -75106,11 +75745,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -75491,11 +76133,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -75548,11 +76193,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76112,11 +76760,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76297,11 +76948,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76354,11 +77008,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76411,11 +77068,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76468,11 +77128,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76525,11 +77188,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76582,11 +77248,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -76856,11 +77525,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77041,11 +77713,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77236,11 +77911,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77293,11 +77971,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77478,11 +78159,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77535,11 +78219,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77592,11 +78279,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77649,11 +78339,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77834,11 +78527,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77891,11 +78587,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -77948,11 +78647,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -78005,11 +78707,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -78062,11 +78767,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -78119,11 +78827,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -78978,7 +79689,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-02-07T00:00:00-08:00",
                 "totalrow": 38536,
                 "startDate0": "2022-04-01T00:00:00-07:00",
@@ -79000,7 +79714,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-03-31T00:00:00-07:00",
                 "totalrow": 39420,
                 "startDate0": "2023-02-08T00:00:00-08:00",
@@ -79882,11 +80599,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -80454,7 +81174,10 @@
             },
             {
                 "bedType": "privateBed",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-03-31T00:00:00-07:00",
                 "totalrow": 25915,
                 "startDate0": "2022-04-01T00:00:00-07:00",
@@ -81909,7 +82632,10 @@
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2023-03-31T00:00:00-07:00",
                 "totalrow": 43070,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -82610,11 +83336,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -82795,11 +83524,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -82980,11 +83712,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -83037,11 +83772,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -83359,11 +84097,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -84965,11 +85706,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -85022,11 +85766,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -85079,11 +85826,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -85520,11 +86270,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -85577,11 +86330,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -86871,11 +87627,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -86928,11 +87687,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -86985,11 +87747,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -87042,11 +87807,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -87099,11 +87867,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -87156,11 +87927,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -87213,11 +87987,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -87999,11 +88776,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -88056,11 +88836,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -88113,11 +88896,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -88358,11 +89144,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -88500,11 +89289,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -88557,11 +89349,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -88614,11 +89409,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -89539,11 +90337,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -89596,11 +90397,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
@@ -89653,11 +90457,14 @@
             {
                 "notes": "",
                 "notes1": "",
-                "bedType": "",
+                "bedType": "inScope",
                 "endDate": "2024-03-31T00:00:00-07:00",
                 "notes16": "",
                 "quarter": "",
-                "subType": {},
+                "subType": {
+                    "label": "LTC Regular",
+                    "value": "ltcRegular"
+                },
                 "endDate0": "2024-03-31T00:00:00-07:00",
                 "totalrow": 0,
                 "startDate": "2023-04-01T00:00:00-07:00",
